@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FTPSERVER": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true,
+      "authenticationMode": "Windows"
+    }
+  }
+}

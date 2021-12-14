@@ -1,0 +1,18 @@
+12/13/2021 4:25:44 PM-Connecting to the server.
+12/13/2021 4:25:44 PM-Loading the File Y:\Test\estructura_ncf.txt to the server.
+12/13/2021 4:25:44 PM-Closing the connection to the server.
+12/13/2021 4:25:45 PM-Connecting to the server: /home/sftp/.
+12/13/2021 4:25:45 PM-Dawnloading the file estructura_ncf.txt.
+12/13/2021 4:25:45 PM-Deleting the file estructura_ncf.txt from server /home/sftp/.
+12/13/2021 4:25:45 PM-Cheking the file estructura_ncf.txt it was deleted from server /home/sftp/.
+12/13/2021 4:25:45 PM-1 was downloaded successfully!
+12/13/2021 4:25:45 PM-Closing the connection to the server /home/sftp/.
+12/13/2021 4:42:40 PM-Connecting to the server.
+12/13/2021 4:42:40 PM-Loading the File Y:\Test\dev.txt to the server.
+12/13/2021 4:42:40 PM-Closing the connection to the server.
+12/13/2021 4:42:41 PM-Connecting to the server: /home/sftp/.
+12/13/2021 4:42:41 PM-Dawnloading the file dev.txt.
+12/13/2021 4:42:41 PM-Deleting the file dev.txt from server /home/sftp/.
+12/13/2021 4:42:41 PM-Cheking the file dev.txt it was deleted from server /home/sftp/.
+12/13/2021 4:42:41 PM-1 was downloaded successfully!
+12/13/2021 4:42:41 PM-Closing the connection to the server /home/sftp/.
